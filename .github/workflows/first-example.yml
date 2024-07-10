@@ -10,10 +10,9 @@ jobs:
           run: echo mu first job
         - name: list files
           run: ls
-        - name: Read file
-          run: cat README.md
+        
 
-          
+
         
 
 
